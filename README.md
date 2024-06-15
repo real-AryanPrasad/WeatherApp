@@ -1,7 +1,7 @@
 # Weather App
 
 ## Description
-This is a weather application that displays real-time weather data . The app uses the OpenWeatherMap API to fetch weather information and displays it in a user-friendly format.
+This is a weather application that displays real-time weather data . The app uses the OpenWeatherMap API to fetch weather information,node.js in backend and HTML,CSS in frontend and displays it in a user-friendly format.
 
 ## Features
 - Display current weather conditions (temperature, humidity etc.)
